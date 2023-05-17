@@ -1,2 +1,3 @@
-# personal-website
-My personal website built with Astro.
+# Personal website
+
+My personal website built with [Astro](https://astro.build/).
